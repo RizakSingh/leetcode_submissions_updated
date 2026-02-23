@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0125-valid-palindrome) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2418-sort-the-people](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/2418-sort-the-people) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0349-intersection-of-two-arrays) |
