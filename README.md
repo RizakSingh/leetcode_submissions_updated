@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/2487-remove-nodes-from-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -83,12 +84,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0876-middle-of-the-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0206-reverse-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0739-daily-temperatures) |
+| [2487-remove-nodes-from-linked-list](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
