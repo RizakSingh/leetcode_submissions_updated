@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0349-intersection-of-two-arrays) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2418-sort-the-people](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/2418-sort-the-people) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0704-binary-search) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0219-contains-duplicate-ii) |
 ## Prefix Sum
 |  |
 | ------- |
