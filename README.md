@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0977-squares-of-a-sorted-array) |
 | [2418-sort-the-people](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/2418-sort-the-people) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Math
 |  |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0206-reverse-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
