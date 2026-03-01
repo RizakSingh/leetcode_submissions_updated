@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0016-3sum-closest) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0287-find-the-duplicate-number) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0016-3sum-closest) |
 | [0349-intersection-of-two-arrays](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0977-squares-of-a-sorted-array) |
 | [2418-sort-the-people](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/2418-sort-the-people) |
