@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0016-3sum-closest) |
+| [0268-missing-number](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0977-squares-of-a-sorted-array) |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0704-binary-search) |
@@ -83,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
@@ -97,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
