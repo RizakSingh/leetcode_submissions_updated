@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0977-squares-of-a-sorted-array) |
 | [2418-sort-the-people](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/2418-sort-the-people) |
+| [3364-minimum-positive-sum-subarray](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/3364-minimum-positive-sum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,10 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0219-contains-duplicate-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0209-minimum-size-subarray-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/3364-minimum-positive-sum-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
