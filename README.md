@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0977-squares-of-a-sorted-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0724-find-pivot-index) |
 | [3364-minimum-positive-sum-subarray](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/3364-minimum-positive-sum-subarray) |
 ## Bit Manipulation
 |  |
