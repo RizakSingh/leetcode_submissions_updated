@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0509-fibonacci-number) |
 | [2487-remove-nodes-from-linked-list](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0509-fibonacci-number) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Greedy
 |  |
@@ -160,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0074-search-a-2d-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
