@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0977-squares-of-a-sorted-array) |
+| [1572-matrix-diagonal-sum](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/1572-matrix-diagonal-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2418-sort-the-people](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/2418-sort-the-people) |
 | [3364-minimum-positive-sum-subarray](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/3364-minimum-positive-sum-subarray) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0074-search-a-2d-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/1572-matrix-diagonal-sum) |
 ## Memoization
 |  |
 | ------- |
