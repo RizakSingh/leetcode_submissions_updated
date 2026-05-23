@@ -1,22 +1,11 @@
-/**
- * @param {number} n
- * @return {number}
- */
 var gcdOfOddEvenSums = function(n) {
-    let num = n*2
-    let evensum= 0 
-    let oddsum = 0 
-    for(let i = 1 ; i <= num; i++){
-        if(i%2==0){
-            evensum = evensum  + i 
-        }else{
-            oddsum = oddsum + i 
-        }
+    let oddsum = n * n;
+    let evensum = n * (n + 1);
+
+    function gcd(a, b) {
+        if (b === 0) return a;
+        return gcd(b, a % b);
     }
-    for(let i = oddsum ; i>=1;i--){
-        if(evensum%i==0 && oddsum%i==0){
-            return i 
-        }
-    }
-return 1 
+
+    return gcd(oddsum, evensum);
 };
