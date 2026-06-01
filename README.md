@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0074-search-a-2d-matrix) |
+| [0118-pascals-triangle](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0152-maximum-product-subarray) |
