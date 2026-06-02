@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0287-find-the-duplicate-number) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0442-find-all-duplicates-in-an-array) |
