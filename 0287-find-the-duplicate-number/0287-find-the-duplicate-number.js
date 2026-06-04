@@ -3,20 +3,13 @@
  * @return {number}
  */
 var findDuplicate = function(nums) {
-    let slow = nums[0];
-    let fast = nums[0];
+    let set = new Set();
 
-    while (true) {
-        slow = nums[slow];
-        fast = nums[nums[fast]];
-        if (slow === fast) break;
+    for(let i = 0; i < nums.length; i++) {
+        if(set.has(nums[i])) {
+            return nums[i];
+        }
+
+        set.add(nums[i]);
     }
-
-    slow = nums[0];
-    while (slow !== fast) {
-        slow = nums[slow];
-        fast = nums[fast];
-    }
-
-    return slow;
 };
