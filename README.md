@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0349-intersection-of-two-arrays) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0268-missing-number) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -211,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
