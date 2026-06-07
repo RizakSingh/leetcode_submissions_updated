@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0229-majority-element-ii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -229,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0062-unique-paths) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
