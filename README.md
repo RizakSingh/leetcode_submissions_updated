@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0169-majority-element) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0125-valid-palindrome) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0219-contains-duplicate-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/3364-minimum-positive-sum-subarray) |
