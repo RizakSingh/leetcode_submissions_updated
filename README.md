@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0771-jewels-and-stones](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2418-sort-the-people](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/2418-sort-the-people) |
 ## String
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0392-is-subsequence) |
+| [0771-jewels-and-stones](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/1832-check-if-the-sentence-is-pangram) |
