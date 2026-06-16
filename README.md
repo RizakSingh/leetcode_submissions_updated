@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0485-max-consecutive-ones) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0509-fibonacci-number) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -268,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0128-longest-consecutive-sequence) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
