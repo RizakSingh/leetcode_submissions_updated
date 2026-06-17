@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0268-missing-number) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/RizakSingh/leetcode_submissions_updated/tree/master/0509-fibonacci-number) |
